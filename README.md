@@ -1,6 +1,6 @@
 # Awesome Arrow 🏹
 
-Awesome resources for learning more about things relating to Apache Arrow and the R package [arrow](https://arrow.apache.org/docs/r/).
+Awesome resources for learning more about things relating to Apache Arrow, focussed on the R package [arrow](https://arrow.apache.org/docs/r/).
 
 If you have any suggestions for other resources to add here, please submit a PR!
 
