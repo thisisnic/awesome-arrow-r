@@ -1,5 +1,8 @@
 # Awesome Arrow 🏹
+
 Awesome resources for learning more about things relating to Apache Arrow and the R package [arrow](https://arrow.apache.org/docs/r/).
+
+If you have any suggestions for other resources to add here, please submit a PR!
 
 ## Official docs 🎯
 
@@ -11,6 +14,7 @@ Awesome resources for learning more about things relating to Apache Arrow and th
 * ["Getting started with Apache Arrow" by Danielle Navarro](https://blog.djnavarro.net/posts/2021-11-19_starting-apache-arrow-in-r/) 📄
 * ["New Directions for Apache Arrow" by Wes McKinney](https://www.youtube.com/watch?v=u7DecbDw3QE) 📽️
 * ["Bigger Data With Ease Using Apache Arrow" by Neal Richardson](https://www.youtube.com/watch?v=zND-Wj2XPvc) 📽️
+* ["Apache Arrow: Enabling Data Engineering Tasks in R" by Ian Cook](https://www.youtube.com/watch?v=SXbq4OYtsFA&t=2271s) 📽️
 
 ## Compute functions/data manipulation ⚙️
 
@@ -20,6 +24,6 @@ Awesome resources for learning more about things relating to Apache Arrow and th
 
 * ["Understanding the Parquet file format" by Colin Gillespie](https://www.jumpingrivers.com/blog/parquet-file-format-big-data-r/) 📄
 
-## Misc concepts 📁
+## Misc concepts 💭
 
 * ["Data serialisation in R" by Danielle Navarro](https://blog.djnavarro.net/posts/2021-11-15_serialisation-with-rds/) 📄
