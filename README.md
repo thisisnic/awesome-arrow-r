@@ -9,6 +9,8 @@ Awesome resources for learning more about things relating to Apache Arrow and th
 ## General overview 🔖
 
 * ["Getting started with Apache Arrow" by Danielle Navarro](https://blog.djnavarro.net/posts/2021-11-19_starting-apache-arrow-in-r/) 📄
+* ["New Directions for Apache Arrow" by Wes McKinney](https://www.youtube.com/watch?v=u7DecbDw3QE) 📽️
+* ["Bigger Data With Ease Using Apache Arrow" by Neal Richardson](https://www.youtube.com/watch?v=zND-Wj2XPvc) 📽️
 
 ## Compute functions/data manipulation ⚙️
 
