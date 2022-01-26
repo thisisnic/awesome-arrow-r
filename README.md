@@ -7,7 +7,7 @@ If you have any suggestions for other resources to add here, please submit a PR!
 ## Official docs 🎯
 
 * [pkgdown site for the R package](https://arrow.apache.org/docs/r/)
-* [R cookbook](https://arrow.apache.org/cookbook/r/)
+* [Arrow R cookbook](https://arrow.apache.org/cookbook/r/)
 
 ## General overview 🔖
 
