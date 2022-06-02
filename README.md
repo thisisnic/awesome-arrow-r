@@ -15,6 +15,7 @@ If you have any suggestions for other resources to add here, please submit a PR!
 * ["New Directions for Apache Arrow" by Wes McKinney](https://www.youtube.com/watch?v=u7DecbDw3QE) 📽️
 * ["Bigger Data With Ease Using Apache Arrow" by Neal Richardson](https://www.youtube.com/watch?v=zND-Wj2XPvc) 📽️
 * ["Apache Arrow: Enabling Data Engineering Tasks in R" by Ian Cook](https://www.youtube.com/watch?v=SXbq4OYtsFA&t=2271s) 📽️
+* ["Bigger data with arrow and duckdb" by Tom Mock & Edgar Ruiz](https://jthomasmock.github.io/bigger-data/#1) 🎞️
 
 
 ## Data types and Arrow objects 🗂
