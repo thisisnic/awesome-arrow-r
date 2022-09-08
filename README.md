@@ -54,3 +54,6 @@ Key:
 
 ## Community
 * ["Contributing to the Arrow R Package - Get Involved!" by Nic Crane](https://www.youtube.com/watch?v=E__dvxv0Tyg&t=308s) 📽️
+
+## Resources for Arrow devs
+* [Series of blog posts around setting up more complex dev environments than those described in the vignettes, by Will Jones](https://www.datawill.io/) 📄
