@@ -38,7 +38,7 @@ Key:
 
 ## Arrow bindings/Acero
 * ["Binding Apache Arrow to R" by Danielle Navarro](https://blog.djnavarro.net/posts/2022-01-18_binding-arrow-to-r/) 📄
-* [Arrow New Feature Showcase: show_exec_plan() by Nic Crane](https://thisisnic.github.io/2022/08/26/arrow-new-feature-showcase-show-exec-plan/) 📄
+* ["Arrow New Feature Showcase: show_exec_plan()" by Nic Crane](https://thisisnic.github.io/2022/08/26/arrow-new-feature-showcase-show-exec-plan/) 📄
 
 ## File formats and partitioning 
 
