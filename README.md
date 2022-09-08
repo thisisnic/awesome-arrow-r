@@ -19,6 +19,8 @@ If you have any suggestions for other resources to add here, please submit a PR!
 
 
 ## Data types and Arrow objects 🗂
+
+* ["Data serialisation in R" by Danielle Navarro](https://blog.djnavarro.net/posts/2021-11-15_serialisation-with-rds/) 📄
 * ["Data types in Arrow and R" by Danielle Navarro](https://blog.djnavarro.net/posts/2022-03-04_data-types-in-arrow-and-r/) 📄
 * ["Arrays and tables in Arrow" by Danielle Navarro](https://blog.djnavarro.net/posts/2022-05-25_arrays-and-tables-in-arrow/) 📄
 
@@ -26,13 +28,11 @@ If you have any suggestions for other resources to add here, please submit a PR!
 
 * ["Binding Apache Arrow to R" by Danielle Navarro](https://blog.djnavarro.net/posts/2022-01-18_binding-arrow-to-r/) 📄
 
-## File formats ✉️
+## File formats and partitioning ✉️
 
 * ["Understanding the Parquet file format" by Colin Gillespie](https://www.jumpingrivers.com/blog/parquet-file-format-big-data-r/) 📄
+* ["Creating an Arrow dataset" by François Michonneau](https://francoismichonneau.net/2022/08/arrow-dataset-creation/) 📄
 
-## Misc concepts 💭
-
-* ["Data serialisation in R" by Danielle Navarro](https://blog.djnavarro.net/posts/2021-11-15_serialisation-with-rds/) 📄
 
 ## Geoarrow 🌍
 * ["Building Bridges: Arrow, Parquet, and Geospatial Computing" by Dewey Dunnington](https://dewey.dunnington.ca/post/2022/building-bridges-arrow-parquet-and-geospatial-computing/) 📄
