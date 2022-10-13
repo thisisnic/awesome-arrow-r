@@ -43,7 +43,7 @@ Key:
 ## File formats and partitioning 
 
 * ["Creating an Arrow dataset: An exploration of the file formats that Arrow can read and write." by François Michonneau](https://francoismichonneau.net/2022/08/arrow-dataset-creation/) 📄
-* ["Creating an Arrow dataset (part 2): How does partitioning impact query performance?" by François Michonneau](https://francoismichonneau.net/2022/08/arrow-dataset-creation/) 📄
+* ["Creating an Arrow dataset (part 2): How does partitioning impact query performance?" by François Michonneau](https://francoismichonneau.net/2022/09/arrow-dataset-part-2/) 📄
 * ["Understanding the Parquet file format" by Colin Gillespie](https://www.jumpingrivers.com/blog/parquet-file-format-big-data-r/) 📄
 
 
